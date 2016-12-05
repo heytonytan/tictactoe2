@@ -1,0 +1,19 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "tictactoe game on the command line",
+  "main": "tictactoe.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node tictactoe.js"
+  },
+  "keywords": [
+    "game",
+    "tictactoe"
+  ],
+  "author": "Tony K. Tan",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
